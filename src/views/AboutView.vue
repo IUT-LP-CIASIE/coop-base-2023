@@ -5,7 +5,7 @@ onMounted(() => {
     console.log("L'api fonctionne !")
   })
   // let member = {fullname:'ok',email:'oui@ok.fr',password:'poiutfgio'};
-  // api.delete('members',{body:member}).then(response => {
+  // api.post('members',{body:member}).then(response => {
   //   console.log(response)
   // })
 })
